@@ -1,0 +1,52 @@
+TEAM 1
+Aprire un pacchetto di figurine
+Ce l’ho, mi manca!
+Che emozione, ogni volta
+  che apro un pacchetto nuovo... chissà se troverò quella figurina così rara!
+  Dopo averle sfilate dal pacchetto, me le
+  passo tra le mani controllando nell’album: attacco subito quelle nuove,
+  mentre le doppie le metto in un mazzetto a parte. Ormai ne sto accumulando
+  diverse, spero di riuscire a combinare diversi scambi sabato con i miei
+  amici!
+
+1 Prendi l'album
+	- SE è chiuso lo apri
+
+2 Prendi la lista scambiabili
+
+3 Prendi il pacchetto
+	-Apro il pacchetto
+	-Estraggo le carte
+	-Butto l'involucro
+4 Controllare carte
+	-prendo la figurina in cima
+	-Sfoglio l'album
+		-SE è presente la metto nella lista scambiabili
+		-ALTRIMENTI la attacchi.
+	-Ricomincio finquando Le figurine del pacchetto non sono finite
+5 Chiudo l'album
+
+6 Preparazione per lo scambio
+	-prendo album
+	-prendo lista scambiabili
+7 Incontro per lo scambio
+	-Raggiungo il mio amico 
+
+8 Confronto per lo scambio
+	-passo la mia lista scambiabili all'amico
+	-passo il mio album all'amico
+	-prendo l'album dell 'amico
+		- SE è chiuso apro l'album dell'amico		
+	-prendo lista scambiabili dell'amico
+		-prendo la figurina in cima
+	-Sfoglio il mio album 
+		-SE  la figurina è presente la metto nella lista scartate
+		-ALTRIMENTI La metto nella lista desiderati
+	-Ricominci finquando Le figurine della lista scambiabili del mio amico non sono finite
+
+9 Scambio
+	effettuo lo scambio di "lista desiderati" con il mio compagno
+
+	
+
+		
